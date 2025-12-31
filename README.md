@@ -11,7 +11,7 @@ HireHub is a user-friendly job platform connecting employers with the right tale
 - ✅ Clean and intuitive UI for effortless navigation
 
 ## 💻 Tech Behind HireHub
-- 🔹 **Backend:** Flask + SQLAlchemy
+- 🔹 **Backend:** Flask + SQLITE 
 - 🔹 **Frontend:** HTML + CSS
 
 Building this platform was an incredible journey where I honed my full-stack development skills and applied practical knowledge in database management.
